@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>A.M.P.A. San Juan Bosco</title>
-    <link href="https://ampabosco.github.io/feed.xml" rel="self" />
-    <link href="https://ampabosco.github.io" />
+    <link href="https://ampasanjuanbosco.com/feed.xml" rel="self" />
+    <link href="https://ampasanjuanbosco.com" />
     <updated>2020-09-16T13:39:44+02:00</updated>
     <author>
         <name>Emilio D&#x27;Angelo</name>
     </author>
-    <id>https://ampabosco.github.io</id>
+    <id>https://ampasanjuanbosco.com</id>
 
     <entry>
         <title>Comunicado oficial curso escolar 2020/2021</title>
         <author>
             <name>Emilio D&#x27;Angelo</name>
         </author>
-        <link href="https://ampabosco.github.io/comunicado-oficial-curso-escolar-20202021.html"/>
-        <id>https://ampabosco.github.io/comunicado-oficial-curso-escolar-20202021.html</id>
+        <link href="https://ampasanjuanbosco.com/comunicado-oficial-curso-escolar-20202021.html"/>
+        <id>https://ampasanjuanbosco.com/comunicado-oficial-curso-escolar-20202021.html</id>
             <category term="Comunicados"/>
 
         <updated>2020-09-16T13:39:44+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://ampabosco.github.io/media/posts/8/art-school-table-226588.jpg" alt="" />
+                        <img src="https://ampasanjuanbosco.com/media/posts/8/art-school-table-226588.jpg" alt="" />
                     El inicio de las clases será acorde al siguiente calendario: Circular informativa inicio de curso Información e inscripción al comedor escolar
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ampabosco.github.io/media/posts/8/art-school-table-226588.jpg" alt="" />
+                    <img src="https://ampasanjuanbosco.com/media/posts/8/art-school-table-226588.jpg" alt="" />
                 <p>El inicio de las clases será acorde al siguiente calendario:</p>
 <ul>
 <li>Educación infantil, 1º, 2º y 3º de primaria: <strong>8 de septiembre</strong></li>
@@ -35,7 +35,7 @@
 </ul>
 <p><a href="https://drive.google.com/file/d/1DLj6mIF496jh_hWv_BSkJsl4G6VNe3Sy/view?usp=sharing" target="_blank" rel="noopener noreferrer">Circular informativa inicio de curso</a></p>
 <p><a href="https://drive.google.com/drive/folders/1KwSgY2lgp0o_zoPZVU58RSknB9FRsVNI?usp=sharing" target="_blank" rel="noopener noreferrer">Información e inscripción al comedor escolar</a></p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://ampabosco.github.io/media/posts/8//KIT-COLE.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ampabosco.github.io/media/posts/8//responsive/KIT-COLE-xs.png 300w ,https://ampabosco.github.io/media/posts/8//responsive/KIT-COLE-sm.png 480w ,https://ampabosco.github.io/media/posts/8//responsive/KIT-COLE-md.png 768w ,https://ampabosco.github.io/media/posts/8//responsive/KIT-COLE-lg.png 1024w ,https://ampabosco.github.io/media/posts/8//responsive/KIT-COLE-xl.png 1360w ,https://ampabosco.github.io/media/posts/8//responsive/KIT-COLE-2xl.png 1600w"  alt="Kit COVID para la vuelta al cole" width="968" height="437"></figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://ampasanjuanbosco.com/media/posts/8//KIT-COLE.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ampasanjuanbosco.com/media/posts/8//responsive/KIT-COLE-xs.png 300w ,https://ampasanjuanbosco.com/media/posts/8//responsive/KIT-COLE-sm.png 480w ,https://ampasanjuanbosco.com/media/posts/8//responsive/KIT-COLE-md.png 768w ,https://ampasanjuanbosco.com/media/posts/8//responsive/KIT-COLE-lg.png 1024w ,https://ampasanjuanbosco.com/media/posts/8//responsive/KIT-COLE-xl.png 1360w ,https://ampasanjuanbosco.com/media/posts/8//responsive/KIT-COLE-2xl.png 1600w"  alt="Kit COVID para la vuelta al cole" width="968" height="437"></figure>
             ]]>
         </content>
     </entry>
