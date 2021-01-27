@@ -3,7 +3,7 @@
     <title>A.M.P.A. San Juan Bosco</title>
     <link href="https://www.ampasanjuanbosco.com/feed.xml" rel="self" />
     <link href="https://www.ampasanjuanbosco.com" />
-    <updated>2021-01-27T20:09:51+01:00</updated>
+    <updated>2021-01-27T20:12:53+01:00</updated>
     <author>
         <name>Emilio D&#x27;Angelo</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://www.ampasanjuanbosco.com/el-mural-se-queda.html"/>
         <id>https://www.ampasanjuanbosco.com/el-mural-se-queda.html</id>
+            <category term="Noticias"/>
 
-        <updated>2021-01-27T20:09:51+01:00</updated>
+        <updated>2021-01-27T20:12:53+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.ampasanjuanbosco.com/media/posts/14/europapress-3533874-hombre-pasa-mural-feminista-polideportivo-municipal-concepcion-distrito.jpg" alt="" />
